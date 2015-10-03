@@ -1,6 +1,6 @@
 {
-  "name": "mupx",
-  "version": "1.5.2",
+  "name": "sasi-mup",
+  "version": "1.5.3",
   "description": "Production Quality Meteor Deployments",
   "dependencies": {
     "async": "^0.9.0",
@@ -15,12 +15,12 @@
     "minimist": "1.1.1"
   },
   "bin": {
-    "mupx": "./bin/mup"
+    "smupx": "./bin/mup"
   },
-  "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
+  "author": "Sasikanth <sasi.kanth80@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/arunoda/meteor-up.git"
+    "url": "https://github.com/sasikanth513/meteor-up.git"
   },
   "license": "MIT"
 }
